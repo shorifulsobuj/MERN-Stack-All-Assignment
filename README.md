@@ -1,1 +1,2 @@
-# Shoriful Sobuj Assignment-1 Portfolio Website MERN Stack
+Assignment-1 (Portfolio Website)
+Assignment 2 (Bootstrap)
